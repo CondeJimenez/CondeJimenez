@@ -1,5 +1,5 @@
 # ¡Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Kevin Conde
-<sub>Graduate in Information Technology at Universidad Autónoma de Nuevo León</sub>
+<h4>Graduate in Information Technology at Universidad Autónoma de Nuevo León</h4>
 
 
 
