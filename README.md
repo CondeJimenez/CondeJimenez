@@ -1,5 +1,4 @@
-# I'm Kevin Conde !
-<P align='left' display='inline'>👋 Hi World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p>
+# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Kevin Conde!
 
 
 - 📫 How to reach me **conde.jimenez@hotmai.com**
