@@ -1,5 +1,5 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<h3 align="center">Soy un apasionado por las tecnologias y me gusta aprender cosas nuevas.</h3>
+### 👋 Hi World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 
 - 📫 How to reach me **conde.jimenez@hotmai.com**
 
