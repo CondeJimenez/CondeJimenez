@@ -19,6 +19,9 @@ const tools = {
 ```
 
 - 📫 Contactame 
-<a href="conde.jimenez@hotmail.com"><img src='https://iconos8.es/icon/3AYCSzCO85Qw/mail' alt='icono de correo'/></ion-icon></a>
+conde.jimenez@hotmail.com
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-conde-jimenez/)
+
+</br>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=condejimenez&show_icons=true&locale=en" alt="condejimenez" />
