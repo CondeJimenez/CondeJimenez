@@ -1,4 +1,4 @@
-# Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, Soy Kevin Conde!!
+# ¡Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, Soy Kevin Conde!
 <h4>Egresado en la carrera Tecnologias de la Informacion en la Universidad Autónoma de Nuevo León</h4>
 
 ## About
