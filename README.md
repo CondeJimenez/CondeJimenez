@@ -1,6 +1,6 @@
 # ¡Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, Soy Kevin Conde!
 <h4>Egresado en la carrera Tecnologias de la Informacion en la Universidad Autónoma de Nuevo León</h4>
-</br>
+<br>
 
 
 ## Te cuento un poco sobre mi
@@ -27,5 +27,5 @@ conde.jimenez@hotmail.com
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-conde-jimenez/)
 
-</br>
+<br>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=condejimenez&show_icons=true&locale=en" alt="condejimenez" />
