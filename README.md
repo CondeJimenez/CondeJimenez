@@ -1,5 +1,5 @@
-# Hi, I'm Katherine!
-<P align='left'>👋 Hi World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p>
+# I'm Kevin Conde !
+<P align='left' display='inline'>👋 Hi World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p>
 
 
 - 📫 How to reach me **conde.jimenez@hotmai.com**
