@@ -6,6 +6,8 @@ Apasionado por las tecnologías por el desarrollo web me han llevado al aprendiz
 
 Me emociona mucho trabajar en equipo, compartiendo y adoptando ideas para una buena comunicación, siempre con la mente abierta y disposicion para aprendizaje de nuevas herramientas así lo disponga el proyecto.
 
+## Tecnologías con las que he trabajado 📚
+
 ```
 const tools = {
    code: [Javascript, Python],
