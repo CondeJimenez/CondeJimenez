@@ -1,4 +1,4 @@
-# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> - I'm Kevin Conde
+# ¡Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">! I'm Kevin Conde
 
 
 
